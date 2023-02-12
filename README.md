@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kvngosas
 - 👀 I’m a Front-End Developer (with little Python)
 - 💞️ I’m looking to collaborate on programming
-- 📫 How to reach me ICQ - @python.html
+- 📫 How to reach me ICQ - @python.html | Telegram - @python_html
 
 <!---
 kvngosas/kvngosas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
