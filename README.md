@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kvngosas
 - 👀 I’m a Front-End Developer (with little Python)
-- 💞️ I’m looking to collaborate on ...Programming
+- 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me ICQ - @python.html
 
 <!---
