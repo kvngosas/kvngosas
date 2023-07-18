@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kvngosas
-- 👀 I’m a Web-App Developer
-- 💞️ I’m looking to collaborate on programming
+- 👀 I’m a Software Developer
+
 
 <!---
 kvngosas/kvngosas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
